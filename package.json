@@ -1,0 +1,25 @@
+{
+  "name": "tailwindteslalanding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "postcss ./Tailwind/main.css -o public/tailwind.css",
+    "watch": "postcss ./Tailwind/main.css -o public/tailwind.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasaanSultan/TailwindTeslaLanding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HasaanSultan/TailwindTeslaLanding/issues"
+  },
+  "homepage": "https://github.com/HasaanSultan/TailwindTeslaLanding#readme",
+  "dependencies": {
+    "postcss": "^8.4.13",
+    "postcss-cli": "^9.1.0"
+  }
+}
