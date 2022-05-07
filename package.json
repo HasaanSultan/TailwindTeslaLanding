@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/HasaanSultan/TailwindTeslaLanding#readme",
   "dependencies": {
+    "cssnano": "^5.1.7",
     "postcss": "^8.4.13",
     "postcss-cli": "^9.1.0"
   }
